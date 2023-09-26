@@ -15,7 +15,7 @@ struct aluno{
 
 void imprimeMenu();
 void consultar(struct aluno[], int);
-void listar(struct aluno[], int);
+void listar(struct aluno[], int); 
 void inserir(struct aluno[], int, int);
 void remover(struct aluno[], int, int, int);
 int buscar(struct aluno[], int, int);
